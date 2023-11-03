@@ -1,0 +1,17 @@
+{
+  "name": "codember_challenge",
+  "version": "1.0.0",
+  "description": "codemver.dev challenges solutions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "standard": "17.1.0"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  }
+}
