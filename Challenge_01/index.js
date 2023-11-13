@@ -22,7 +22,8 @@ function decryptMessage () {
       words.forEach(item => {
         str = str.concat(item.word + item.repeat)
       })
+      console.log(str)
     })
 }
 
-console.log(decryptMessage())
+decryptMessage()
